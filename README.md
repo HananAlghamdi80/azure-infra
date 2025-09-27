@@ -1,3 +1,10 @@
+
+## Screenshot of the Application
+![E-commerce App](https://raw.githubusercontent.com/HananAlghamdi80/azure-infra/main/Screenshot%202025-09-27%20160754.png)
+
+
+
+
 # Azure Infrastructure Project
 This repository contains Terraform code for deploying a 3-Tier Application on Microsoft Azure.  
 
